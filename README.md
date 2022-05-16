@@ -7,6 +7,7 @@ are attached with each collection.
 ## Available Keycaps
 
 - [Chicago Stenographer](Chicago/) by Pseudoku
+- [DCJS](DCJS/) by shoggot
 - [LDSA](LDSA/) by lowprokb.ca
 - [LPX](https://github.com/levpopov/LPX/tree/main) by levpopov
 - [MBK](MBK/) by Max Burger

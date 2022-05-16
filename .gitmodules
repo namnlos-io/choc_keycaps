@@ -4,3 +4,6 @@
 [submodule "LPX"]
 	path = LPX
 	url = https://github.com/levpopov/LPX.git
+[submodule "DCJS/STL-sprues"]
+	path = DCJS/STL-sprues
+	url = https://github.com/valdar/DCJSx10.git
