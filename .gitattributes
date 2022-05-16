@@ -6,7 +6,9 @@ LICENSE   text linguist-documentation linguist-language=Markdown
 *.stp     text linguist-generated
 *.scad   text linguist-language=Python
 
-*.jpg     binary
-*.jpeg    binary
-*.png     binary
-*.stl     binary
+*.jpg    binary
+*.jpeg   binary
+*.png    binary
+*.stl    binary
+*.f3d    binary
+*.f3z    binary
