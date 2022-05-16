@@ -1,0 +1,11 @@
+* text=auto
+
+*.md      text diff=markdown linguist-documentation
+LICENSE   text linguist-documentation linguist-language=Markdown
+*.step    text linguist-generated
+*.stp     text linguist-generated
+
+*.jpg     binary
+*.jpeg    binary
+*.png     binary
+*.stl     binary
