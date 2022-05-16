@@ -1,0 +1,6 @@
+[submodule "Chicago/OpenSCAD"]
+	path = Chicago/OpenSCAD
+	url = https://github.com/pseudoku/PseudoMakeMeKeyCapProfiles.git
+[submodule "LPX"]
+	path = LPX
+	url = https://github.com/levpopov/LPX.git
