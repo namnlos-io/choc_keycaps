@@ -4,6 +4,7 @@
 LICENSE   text linguist-documentation linguist-language=Markdown
 *.step    text linguist-generated
 *.stp     text linguist-generated
+*.scad   text linguist-language=Python
 
 *.jpg     binary
 *.jpeg    binary
