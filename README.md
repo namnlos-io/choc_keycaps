@@ -14,3 +14,4 @@ are attached with each collection.
 - [MBK](MBK/) by Max Burger
 - [SQDG](SQDG/) by shoggot
 - [Talon](Talon/) by Brandon Furtwangler
+- [Unnamed](Vengeful-Wrath/) by "Vengeful Wrath"
