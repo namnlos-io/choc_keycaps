@@ -7,3 +7,6 @@
 [submodule "DCJS/STL-sprues"]
 	path = DCJS/STL-sprues
 	url = https://github.com/valdar/DCJSx10.git
+[submodule "MDLS"]
+	path = MDLS
+	url = https://github.com/muriworks/mlds-keycaps.git
