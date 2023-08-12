@@ -10,3 +10,6 @@
 [submodule "MDLS"]
 	path = MDLS
 	url = https://github.com/muriworks/mlds-keycaps.git
+[submodule "Lamé/Repository"]
+	path = Lamé/Repository
+	url = https://github.com/braindefender/KLP-Lame-Keycaps.git
