@@ -9,10 +9,12 @@ respective creators and licenses are attached with each collection.
 - [Chicago Stenographer](Chicago/) by Pseudoku
 - [DCJS](DCJS/) by shoggot
 - [FunkMonk](FunkMonk/) by Stephan Park
+- [Lamé](Lamé/) by Nikita Shirokov
 - [LDSA](LDSA/) by lowprokb.ca
 - [LPX](https://github.com/levpopov/LPX/tree/main) by levpopov
 - [MDLS](https://github.com/muriworks/mlds-keycaps) by Kuba Birecki for muriworks
 - [MBK](MBK/) by Max Burger
+- [Mobop](Mobop/) by penk
 - [Smiling Orca](SmilingOrca/) by Leo Lou
 - [SQDG](SQDG/) by shoggot
 - [Talon](Talon/) by Brandon Furtwangler
