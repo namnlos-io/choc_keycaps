@@ -9,6 +9,7 @@ respective creators and licenses are attached with each collection.
 - [Chicago Stenographer](Chicago/) by Pseudoku
 - [DCJS](DCJS/) by shoggot
 - [FunkMonk](FunkMonk/) by Stephan Park
+- [Kea Workshop](Kea/) by Kea Workshop
 - [Lamé](Lamé/) by Nikita Shirokov
 - [LDSA](LDSA/) by lowprokb.ca
 - [LPX](https://github.com/levpopov/LPX/tree/main) by levpopov
