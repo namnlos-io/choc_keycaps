@@ -20,7 +20,7 @@ respective creators and licenses are attached with each collection.
 - [SQDG](SQDG/) by shoggot
 - [Talon](Talon/) by Brandon Furtwangler
 - [Unnamed](Vengeful-Wrath/) by "Vengeful Wrath"
-- [Värdera](VRD/) by Nikita Shirokov
+- [Värdera](VDR/) by Nikita Shirokov
 
 ## A note regarding rights aimed at creators
 
